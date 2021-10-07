@@ -62,11 +62,3 @@ if c["User Won"]>c["System Won"]:
 elif c["User Won"]<c["System Won"]:
     print("YOU LOST, BETTER LUCK NEXT TIME!")
 else:print("Match Tied, Try Again")
-
-
-# if c["User Won"]>c["System Won"] and c["User Won"]>c["Tie"]:
-#     print("YOU WON, CONGRATSSS!!!!!")
-# elif c["System Won"]>c["User Won"] and c["System Won"]>c["Tie"]:
-#     print("YOU LOST, BETTER LUCK NEXT TIME!")
-# else:print("Match Tied, Try Again")
-
